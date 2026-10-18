@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jungmin 👋
 
-<!--
-**dop9405/dop9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+충남대학교 인공지능학과 4학년 · LLM / RAG / Computer Vision
 
-Here are some ideas to get you started:
+## 🔬 Research & Projects
+- **SAR Object Detection** — SAR 영상 기반 객체 탐지 연구 (KCC, BigComp 논문, 1저자 포함)
+- **LLM Fine-tuning** — (모델, 데이터, 결과 한 줄)
+- **RAG Pipeline** — (무엇을 위한 시스템인지 한 줄)
+- **XGBoost** — (문제 / 성능 한 줄)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+## 📫 Contact
+- Email: your@email.com
