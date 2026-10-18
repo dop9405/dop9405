@@ -1,8 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!%20🛰️&animation=fadeIn&fontColor=000000&fontSize=50" />
-</div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😀 Hi there 👋</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
             안녕하세요! 충남대학교 인공지능학과에서 AI를 공부하는 최정민입니다.<br>
