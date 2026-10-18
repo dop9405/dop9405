@@ -1,10 +1,14 @@
 <div style="text-align: left;">
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
-            안녕하세요! 충남대학교 인공지능학과에서 AI를 공부하는 최정민입니다.<br>
+            충남대학교 인공지능학과에서 AI를 공부하는 최정민입니다.<br>
             Image, Text, Tabular 등 다양한 데이터를 직접 분석하고 정제하며 모델 성능을 개선하는 일에 관심이 많습니다.
         </text>
-        <h4>🔭 Research & Projects</h4>
+        <h4>🔭 I’m currently working on...</h4>
+        <ul>
+            <li>[Entity Matching] AI를 활용한 선박 정보 표기 차이 해소 — 입출항 기록과 표준 선박제원정보를 활용한 선박 정보 매칭 AI 모델 개발 (DACON, 2026, In progress)</li>
+        </ul>
+        <h4>🗂️ Research & Projects</h4>
         <ul>
             <li>[Computer Vision] Ship Detection and Classification from Satellite SAR Imagery (Stellarvision, Industry Collaboration, 2024)</li>
             <li>[Computer Vision] Real-time Missing Person Tracking System using Multi-view Video Analysis (RIS, National Research Project, 2024)</li>
@@ -12,7 +16,6 @@
             <summary>more...</summary>
             <li>[LLM] CNU Academic Information Chatbot — small-LLM fine-tuning (2025)</li>
             <li>[Tabular ML] Toss CTR Prediction Competition — XGBoost-based click-through rate prediction (DACON, 2025)</li>
-            <li>[Reinforcement Learning] AWS DeepRacer Autonomous Driving Project (2025)</li>
             </details>
         </ul>
         <h4>🪄 Papers:</h4>
@@ -43,7 +46,6 @@
         <h3>Tools</h3>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     </div>
 </div>
 <div style="text-align: left;">
