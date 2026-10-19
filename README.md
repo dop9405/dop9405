@@ -23,10 +23,6 @@
             <li>[Loss Function] Smooth Categorical Cross-Entropy: An Improved Approach to Overcome the Limitations of CCE (IEEE BigComp 2025)</li>
             <li>[Data Augmentation] Enhancing Deep Learning Classification Model by Applying Gaussian Blur to Randomly Local Region (KCC 2024, First author)</li>
         </ul>
-        <h4>📜 Certifications:</h4>
-        <ul>
-            <li>SQLD (SQL Developer), Korea Data Agency (Jun 2025)</li>
-        </ul>
     </div>
 </div>
 <div style="text-align: left;">
