@@ -1,7 +1,7 @@
 <div style="text-align: left;">
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
-            충남대학교 인공지능학과에서 AI를 공부하는 최정민입니다.<br>
+            Studying in Artificial Intelligence at Chungnam National University (expected Feb 2027).<br>
         </text>
         <h4>🔭 I’m currently working on...</h4>
         <ul>
