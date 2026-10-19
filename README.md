@@ -2,7 +2,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
             충남대학교 인공지능학과에서 AI를 공부하는 최정민입니다.<br>
-            Image, Text, Tabular 등 다양한 데이터를 직접 분석하고 정제하며 모델 성능을 개선하는 일에 관심이 많습니다.
         </text>
         <h4>🔭 I’m currently working on...</h4>
         <ul>
