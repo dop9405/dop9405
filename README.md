@@ -28,7 +28,7 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-    <div style="margin: ; text-align: left;" "text-align: left;">
+    <div style="text-align: left;">
         <h3>Programming Languages</h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -47,7 +47,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏛️ Affiliations</h2>
     <div style="text-align: left;">
-        &nbsp;<img href="https://ai.cnu.ac.kr/" src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="16">&nbsp;
+        &nbsp;<a href="https://ai.cnu.ac.kr/"><img src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="16"></a>&nbsp;
         Bachelor of Science in Artificial Intelligence, Chungnam National University (Mar 2021 ~ Expected Feb 2027)
         <br>
         &nbsp;<img src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="16">&nbsp;
@@ -60,6 +60,7 @@
         <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fdop9405?color=red&label=github&size=small" alt="github" /></a>
     </h2>
     <div style="text-align: left;">
+        <a href="https://www.linkedin.com/in/jeongmin-choi-884013304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="mailto:dop9405@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
     </div>
 </div>
