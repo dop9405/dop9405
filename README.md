@@ -3,12 +3,9 @@
         <text>
             Studying in Artificial Intelligence at Chungnam National University (expected Feb 2027).<br>
         </text>
-        <h4>🔭 I’m currently working on...</h4>
-        <ul>
-            <li>[Entity Matching] AI를 활용한 선박 정보 표기 차이 해소 — 입출항 기록과 표준 선박제원정보를 활용한 선박 정보 매칭 AI 모델 개발 (DACON, 2026, In progress)</li>
-        </ul>
         <h4>🗂️ Research & Projects</h4>
         <ul>
+            <li>[Entity Matching] Vessel Information Matching between Port Call Records and Standard Vessel Specifications — rule-based + phonetic similarity pipeline for Korean/English vessel names, final score 0.897 (DACON, 2026)</li>
             <li>[Computer Vision] Ship Detection and Classification from Satellite SAR Imagery (Stellarvision, Industry Collaboration, 2024)</li>
             <li>[Computer Vision] Real-time Missing Person Tracking System using Multi-view Video Analysis (RIS, National Research Project, 2024)</li>
             <details>
