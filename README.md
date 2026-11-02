@@ -6,13 +6,10 @@
         <h4>🗂️ Research & Projects</h4>
         <ul>
             <li>[Entity Matching] Vessel Information Matching between Port Call Records and Standard Vessel Specifications — rule-based + phonetic similarity pipeline for Korean/English vessel names, final score 0.897 (DACON, 2026)</li>
-            <li>[Computer Vision] Ship Detection and Classification from Satellite SAR Imagery (Stellarvision, Industry Collaboration, 2024)</li>
-            <li>[Computer Vision] Real-time Missing Person Tracking System using Multi-view Video Analysis (RIS, National Research Project, 2024)</li>
-            <details>
-            <summary>more...</summary>
             <li>[LLM] CNU Academic Information Chatbot — small-LLM fine-tuning (2025)</li>
             <li>[Tabular ML] Toss CTR Prediction Competition — XGBoost-based click-through rate prediction (DACON, 2025)</li>
-            </details>
+            <li>[Computer Vision] Ship Detection and Classification from Satellite SAR Imagery (Stellarvision, Industry Collaboration, 2024)</li>
+            <li>[Computer Vision] Real-time Missing Person Tracking System using Multi-view Video Analysis (RIS, National Research Project, 2024)</li>
         </ul>
         <h4>🪄 Papers:</h4>
         <ul>
